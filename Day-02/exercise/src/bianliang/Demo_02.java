@@ -11,11 +11,11 @@ public class Demo_02 {
 
 //   小数型: double(8字节 精度高) float(4字节)
 
-        float num1 = 100.55F;
-        double num2 = 100.51;
-
-        System.out.println(num1);
-        System.out.println(num2);
+//        float num1 = 100.55F;
+//        double num2 = 100.51;
+//
+//        System.out.println(num1);
+//        System.out.println(num2);
 
     }
 }
