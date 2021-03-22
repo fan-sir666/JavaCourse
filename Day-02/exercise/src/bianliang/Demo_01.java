@@ -9,8 +9,8 @@ public class Demo_01 {
 //               输出
         System.out.println(num1);*/
 
-
-/*//       先声明  再赋值
+/*
+//       先声明  再赋值
         int num2;
         num2 = 20;
         num2 = 30;
@@ -19,6 +19,7 @@ public class Demo_01 {
         System.out.println(num2);*/
 
 /*//         一次定义多个变量
+
 //        方式一
         int num1,num2,num3;
         num1 = 10;
