@@ -10,14 +10,14 @@ public class ChangLiang {
         * */
 
 
-//        final int NUM = 999;
-//        System.out.println(NUM*2);
+        final int NUM = 999;
+        System.out.println(NUM*2);
 
-//        int a,b,c=10;
-//        final int N;
-//        N=c;
-//        b=N+10;
-//        System.out.println(b+c);
+        int a,b,c=10;
+        final int N;
+        N=c;
+        b=N+10;
+        System.out.println(b+c);
 
 
 //        int a,b,c=10;
