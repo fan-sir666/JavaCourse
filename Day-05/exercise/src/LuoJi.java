@@ -51,14 +51,16 @@ public class LuoJi {
 
 
 
-        int a = 1;  // 2   3
-        int b = 1;  // 2   3
+/*        int a = 1;  // 2    3
+        int b = 1;  // 2 3  4
 
-//                    1  +  2   false    2      3 true
+//      先算 && 再算 ||
+//                                       1      2 true   2      2 true
+//                    2      3    false          true 这里决定结果
         boolean c = (a++ + ++b > 5) || (b++ <= ++a) && (b++ == a);
-        System.out.println(a);
-        System.out.println(b);
-        System.out.println(c);
+        System.out.println(a); // 3
+        System.out.println(b); // 4
+        System.out.println(c); // true*/
 
     }
 }
