@@ -4,7 +4,7 @@ public class Demo01 {
     public static void main(String[] args) {
         /*
         *  流程语句：if
-        *
+        *    判断条件进行时，要先小范围再大范围
         *    格式:
         *      单条件： if(判断条件){代码块}
         *      二选一:  if(判断条件){代码块} else {代码块}
