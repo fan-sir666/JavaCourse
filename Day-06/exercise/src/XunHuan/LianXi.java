@@ -2,7 +2,7 @@ package XunHuan;
 
 public class LianXi {
     public static void main(String[] args) {
-        //思考案例1：要求，每次展示一个*，用for展示如下效果 （不能用if）
+//        思考案例1：要求，每次展示一个*，用for展示如下效果 （不能用if）
 //	*
 //	**
 //	***
