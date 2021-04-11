@@ -1,4 +1,4 @@
-package classdemo;
+package lei.classdemo;
 
 
 /*

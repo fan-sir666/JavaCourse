@@ -1,4 +1,4 @@
-package lianxiti;
+package lei.lianxiti;
 
 public class Csphone {
     public static void main(String[] args) {

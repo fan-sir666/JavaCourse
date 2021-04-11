@@ -1,4 +1,4 @@
-package classdemo;
+package lei.classdemo;
 
 
 public class Demo01 {
@@ -6,6 +6,8 @@ public class Demo01 {
         /*
         *  类的使用：
         *       类名 对象名 = new 类名();
+        *
+        * 类和对象的关系: 类是对象的抽象化；对象是类的实例化。一个类可以有多个对象。
         * */
 
 //        对象的创建

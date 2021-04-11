@@ -1,4 +1,4 @@
-package lianxiti;
+package lei.lianxiti;
 
 
 /*把现实世界中的手机(Phone)，变成Java类
